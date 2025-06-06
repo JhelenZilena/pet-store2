@@ -54,6 +54,11 @@
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Dashboard</span></a>
             </li>
+            <li class="nav-item active">
+            <a class="nav-link" href="list-users.php">
+                    <i class="fas fa-fw fa-tachometer-alt"></i>
+                    <span>List Users</span></a>
+            </li>
 
             <!-- Divider -->
             <hr class="sidebar-divider">
